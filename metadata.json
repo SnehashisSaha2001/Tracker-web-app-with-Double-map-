@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Tracker Field Force",
+  "description": "Field force tracking application with live location monitoring, check-in/out functionality, and administrative controls.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
